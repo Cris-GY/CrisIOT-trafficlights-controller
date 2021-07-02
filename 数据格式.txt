@@ -1,0 +1,14 @@
+%d代表当前运行到第%d秒！！！
+例如：
+east_west_turnLeft=12s
+东西左转绿灯执行的第12秒
+
+east_west_turnLeft_yellow=%ds       东西左转黄灯
+east_west_straight_yellow=%ds       东西直行黄灯
+north_south_turnLeft_yellow=%ds   南北左转黄灯
+north_south_straight_yellow=%ds    南北直行黄灯
+north_south_straight=%ds                东西左转绿灯
+north_south_turnLeft=%ds                东西直行绿灯
+east_west_straight=%ds                    南北左转绿灯
+east_west_turnLeft=%ds                    南北直行绿灯
+
